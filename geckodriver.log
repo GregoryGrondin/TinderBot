@@ -1,0 +1,1470 @@
+1583622906770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXYrrFw"
+1583622907115	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583622907324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583622907324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583622907325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583622907325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583622908919	Marionette	INFO	Listening on port 35717
+1583622908996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583622917888	Marionette	INFO	Stopped listening on port 35717
+1583623004427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletfILLo"
+1583623004754	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583623004948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583623004948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583623004948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583623004949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583623006477	Marionette	INFO	Listening on port 45593
+1583623006543	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583623028098	Marionette	INFO	Stopped listening on port 45593
+1583623084208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileawA8rI"
+1583623084536	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583623084731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583623084731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583623084731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583623084731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583623086197	Marionette	INFO	Listening on port 44235
+1583623086231	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1583623213475	Marionette	INFO	Stopped listening on port 44235
+1583623223369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelimGGt"
+1583623223695	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583623223894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583623223894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583623223894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583623223894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583623225334	Marionette	INFO	Listening on port 38467
+1583623225442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583623241054	Marionette	INFO	Stopped listening on port 38467
+1583623367291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6kZIRl"
+1583623367616	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583623367813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583623367813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583623367813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583623367813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583623369445	Marionette	INFO	Listening on port 35965
+1583623369508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583623392529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3nKXpi"
+1583623392855	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583623393056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583623393056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583623393056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583623393056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583623393266	Marionette	INFO	Stopped listening on port 35965
+1583623394603	Marionette	INFO	Listening on port 40021
+1583623394709	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1583623410828	Marionette	INFO	Stopped listening on port 40021
+1583623530389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNLsuIg"
+1583623531657	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583623531953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583623531953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583623531954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583623531954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583623533431	Marionette	INFO	Listening on port 44361
+1583623533519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583623551812	Marionette	INFO	Stopped listening on port 44361
+1583623562858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXkJRYc"
+1583623563187	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583623563390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583623563390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583623563391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583623563391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583623564966	Marionette	INFO	Listening on port 35861
+1583623565015	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1583623619264	Marionette	INFO	Stopped listening on port 35861
+1583623721950	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWc6MVA"
+1583623722277	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583623722477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583623722477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583623722477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583623722477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583623723963	Marionette	INFO	Listening on port 41151
+1583623724060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583623745483	Marionette	INFO	Stopped listening on port 41151
+1583623794004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP3papM"
+1583623794335	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583623794532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583623794532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583623794532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583623794532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583623796009	Marionette	INFO	Listening on port 35205
+1583623796142	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583623814823	Marionette	INFO	Stopped listening on port 35205
+1583623884290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX5LLvw"
+1583623884625	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583623884824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583623884824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583623884824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583623884824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583623886338	Marionette	INFO	Listening on port 39967
+1583623886443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583624144621	Marionette	INFO	Stopped listening on port 39967
+1583624175490	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea5y6YS"
+1583624175817	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583624176017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583624176017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583624176017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583624176017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583624177463	Marionette	INFO	Listening on port 45377
+1583624177600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583624494206	Marionette	INFO	Stopped listening on port 45377
+1583625203643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaX2fHP"
+1583625203971	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583625203990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583625203990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583625203990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583625203990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583625205581	Marionette	INFO	Listening on port 42699
+1583625205656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583625242365	Marionette	INFO	Stopped listening on port 42699
+1583625339780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK5oH19"
+1583625340114	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583625340133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583625340133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583625340133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583625340133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583625341752	Marionette	INFO	Listening on port 38861
+1583625341800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583625352592	Marionette	INFO	Stopped listening on port 38861
+1583625353761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec5owbZ"
+1583625354088	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583625354108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583625354108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583625354108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583625354108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583625355701	Marionette	INFO	Listening on port 37363
+1583625355768	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1583625658960	Marionette	INFO	Stopped listening on port 37363
+1583625664714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIpnZYf"
+1583625665048	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583625665067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583625665067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583625665068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583625665068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583625666580	Marionette	INFO	Listening on port 45873
+1583625666678	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583625699850	Marionette	INFO	Stopped listening on port 45873
+1583625733516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei1k7IC"
+1583625733852	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583625733871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583625733871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583625733872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583625733872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583625735333	Marionette	INFO	Listening on port 40357
+1583625735495	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1583625747488	Marionette	INFO	Stopped listening on port 40357
+1583625749883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1cItbi"
+1583625750216	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583625750236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583625750236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583625750236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583625750236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583625751812	Marionette	INFO	Listening on port 32885
+1583625751894	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1583625845087	Marionette	INFO	Stopped listening on port 32885
+1583625859553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev7f76X"
+1583625859881	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583625859900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583625859900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583625859900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583625859900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583625861426	Marionette	INFO	Listening on port 34249
+1583625861511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583625905104	Marionette	INFO	Stopped listening on port 34249
+1583627259412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP1rwrE"
+1583627259748	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583627259767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583627259767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583627259767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583627259767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583627261368	Marionette	INFO	Listening on port 45641
+1583627261440	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583627271632	Marionette	INFO	Stopped listening on port 45641
+1583627272490	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewMJL35"
+1583627272818	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583627272837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583627272837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583627272837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583627272837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583627274398	Marionette	INFO	Listening on port 32829
+1583627274500	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1583627332473	Marionette	INFO	Stopped listening on port 32829
+1583627524419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegu0VTI"
+1583627524754	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583627524773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583627524773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583627524774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583627524774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583627526209	Marionette	INFO	Listening on port 35711
+1583627526226	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583627585057	Marionette	INFO	Stopped listening on port 35711
+1583627585826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAQXsWM"
+1583627586155	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583627586175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583627586175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583627586175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583627586175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583627587623	Marionette	INFO	Listening on port 46623
+1583627587648	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1583627637635	Marionette	INFO	Stopped listening on port 46623
+1583628249648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUXvckQ"
+1583628249974	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583628249994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583628249994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583628249994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583628249994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583628251403	Marionette	INFO	Listening on port 42317
+1583628251460	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1583628549213	Marionette	INFO	Stopped listening on port 42317
+1583628669542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7fRLyt"
+1583628669872	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583628669892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583628669892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583628669892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583628669892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583628671384	Marionette	INFO	Listening on port 46851
+1583628671456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583628684049	Marionette	INFO	Stopped listening on port 46851
+1583628690701	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHx5X4L"
+1583628691028	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583628691048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583628691048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583628691048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583628691048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583628692531	Marionette	INFO	Listening on port 44385
+1583628692639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583628704593	Marionette	INFO	Stopped listening on port 44385
+1583628707164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4eGI32"
+1583628707493	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583628707512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583628707512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583628707513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583628707513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583628708980	Marionette	INFO	Listening on port 42323
+1583628709069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583628759322	Marionette	INFO	Stopped listening on port 42323
+1583674599471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6veZ1b"
+1583674600561	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583674600644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583674600644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583674600644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583674600644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583674608410	Marionette	INFO	Listening on port 35901
+1583674608445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583674623788	Marionette	INFO	Stopped listening on port 35901
+1583674624535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC14cKx"
+1583674625739	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583674625816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583674625816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583674625816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583674625817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583674633016	Marionette	INFO	Listening on port 34935
+1583674633160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583674643963	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1583674659028	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583674662262	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583674674553	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583674677610	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583674684488	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583674691164	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583674726306	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583674738485	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583674790512	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583674796254	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583674800235	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583674824038	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583674826862	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583674832427	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583674850358	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583674854240	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583674858128	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583674873697	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583674892277	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583674895131	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583675095265	Marionette	INFO	Stopped listening on port 34935
+1583712494568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5L62kA"
+1583712494954	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583712494975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583712494975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583712494976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583712494976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583712497100	Marionette	INFO	Listening on port 36933
+1583712497198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583712509343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoGUasU"
+1583712509711	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583712509732	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583712509732	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583712509732	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583712509732	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583712510732	Marionette	INFO	Stopped listening on port 36933
+1583712511990	Marionette	INFO	Listening on port 46059
+1583712512057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583712523704	Marionette	INFO	Stopped listening on port 46059
+1583712525381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1S1BMx"
+1583712525752	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583712525772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583712525772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583712525772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583712525772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583712527832	Marionette	INFO	Listening on port 33959
+1583712527909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583712587243	Marionette	INFO	Stopped listening on port 33959
+1583747184110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4x1iJD"
+1583747184551	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583747184579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583747184579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583747184580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583747184580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583747186628	Marionette	INFO	Listening on port 45291
+1583747186726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583747200463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegb5WUr"
+1583747200898	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583747200924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583747200924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583747200924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583747200924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583747201163	Marionette	INFO	Stopped listening on port 45291
+1583747203281	Marionette	INFO	Listening on port 40783
+1583747203373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583747215222	Marionette	INFO	Stopped listening on port 40783
+1583747215608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM3z1mD"
+1583747216036	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583747216064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583747216064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583747216065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583747216065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583747218269	Marionette	INFO	Listening on port 33577
+1583747218326	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1583747657977	Marionette	INFO	Stopped listening on port 33577
+1583862055270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAs1vFk"
+1583862055936	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583862055965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583862055965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583862055965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583862055965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583862058149	Marionette	INFO	Listening on port 46133
+1583862058201	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1583863368496	Marionette	INFO	Stopped listening on port 46133
+1584009389334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRNzN0T"
+1584009389788	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584009389811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584009389811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584009389811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584009389811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584009391301	Marionette	INFO	Listening on port 39583
+1584009391340	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584009400558	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1584010773915	Marionette	INFO	Stopped listening on port 39583
+1584010781264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQBjYaM"
+1584010781603	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584010781622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584010781622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584010781623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584010781623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584010783153	Marionette	INFO	Listening on port 42771
+1584010783172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584010795642	Marionette	INFO	Stopped listening on port 42771
+1584010795981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVN7Fg8"
+1584010796318	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584010796338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584010796338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584010796338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584010796338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584010797941	Marionette	INFO	Listening on port 41551
+1584010798021	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0021.691.051.js, line 1: unreachable code after return statement
+1584012321702	Marionette	INFO	Stopped listening on port 41551
+1584067980220	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2I7JG4"
+1584067980696	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584067980725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584067980725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584067980725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584067980725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584067982939	Marionette	INFO	Listening on port 41029
+1584067983033	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1584068066378	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068069670	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068074024	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068075780	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068078528	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068080268	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068087388	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068092439	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068095165	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068097890	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068103148	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068104892	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068108612	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068110356	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068113085	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068116817	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068120547	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068122283	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068124018	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068126746	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068130481	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068133218	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068136962	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068138748	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068142488	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068144227	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068146970	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068150095	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068153817	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068157546	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068159320	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068163071	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068164810	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068167568	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068171303	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068174030	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068180351	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068184081	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068186840	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068188567	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068191296	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068193023	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068195747	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068199055	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068200793	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068202531	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068206263	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068209994	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068216331	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068219083	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068223509	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068228534	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068232564	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068236294	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068242549	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068245366	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068247090	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068250818	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068254906	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068259916	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068266192	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068268917	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068272647	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068275372	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068279105	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068282831	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068288119	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068290840	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068294570	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068296294	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068299018	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068302105	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068306383	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068309107	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068311828	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068315110	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068317830	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068321554	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068325285	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068328012	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068331738	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068335467	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068341779	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584068345513	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1584069133488	Marionette	INFO	Stopped listening on port 41029
